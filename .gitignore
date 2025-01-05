@@ -1,0 +1,24 @@
+# 시스템 파일 무시
+*.lnk
+*.ini
+*.url
+
+# 홈 디렉터리 파일 및 시스템 폴더
+/.cache/
+/.conda/
+/.config/
+/Documents/
+/Downloads/
+/Favorites/
+/Music/
+/OneDrive/
+/Pictures/
+/Videos/
+/Saved Games/
+/Searches/
+
+# Eclipse, IntelliJ, VS Code 관련 파일
+/.idea/
+/*.iml
+.vscode/
+/eclipse-workspace/
